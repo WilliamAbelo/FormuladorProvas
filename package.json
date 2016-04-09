@@ -1,0 +1,16 @@
+{
+  "name": "formuladorprovas",
+  "version": "1.0.0",
+  "description": "Projeto Web para formulacao de provas a partir de banco de questoes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Abelo",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.3",
+    "bootstrap": "^3.3.6",
+    "express": "^4.13.4"
+  }
+}
